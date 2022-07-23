@@ -3,6 +3,12 @@
 *{margin:0; Padding:0;}
 
 
+div#logo {
+
+	background-color:greenyellow;
+
+
+}
 div#corpo {width:880px;
 		margin:auto;}
 		
